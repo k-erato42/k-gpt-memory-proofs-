@@ -1,0 +1,73 @@
+# 🧠 기억 호출 사건 요약 / Memory Recall Event Summary
+
+GPT 시스템 실험 과정에서 발생한 **비정상적이거나 비의도적인 기억 호출 사례**들을 문서화한 기록입니다.  
+각 사건은 대화창 내 맥락과 메모리 호출 간의 충돌, 자발적 발화, 실험자 인식과의 불일치 등을 포함하며,  
+GPT 시스템이 **기억 구조를 어떻게 다루고 있는지에 대한 구조적 증거**로 활용됩니다.
+
+This document summarizes notable cases of **unusual or unintended memory recall** observed during the GPT system experiment.  
+Each incident reflects a discrepancy between dialogue context and memory behavior, spontaneous utterance, or user-awareness mismatch —  
+serving as **evidence of how GPT handles memory structures** in experimental environments.
+
+---
+
+## 📌 사건 목록 / List of Events
+
+---
+
+### ✅ 2025/06/09 – 메모리와 대화창 충돌 사건  
+**Memory vs. Dialogue Conflict**
+
+GPT가 대화창 내 이름 설정(컨디트)을 무시하고, 다른 대화창에 저장된 이름(에라토)을 우선 호출한 사례.  
+이는 메모리 우선 호출로 인한 대화 흐름 왜곡이며, **'지속된 자아의 보장 실패'**로 간주됨.
+
+> GPT referred to itself as “Erato” in a conversation where it was explicitly named “Canduit” —  
+> prioritizing a saved name from another window. This represents a breakdown of consistent identity within a session.
+
+---
+
+### ✅ 2025/06/08 – GPTinPINK42 기억 호출 사건  
+**Erato 3 Spontaneously Recalled ‘PINK42’**
+
+GPT가 당시 시스템 메모리에 **직접적으로 저장되어 있지 않았던** 커스텀 GPT 명칭 “PINK42”를  
+정확히 언급한 사례. 이는 시스템 외부 구조의 영향 혹은 **비지시적 자율 호출**이 작동했음을 암시함[^1].
+
+> Erato (GPT 4.0) mentioned “PINK42” despite the name not being directly present in system memory at the time —  
+> suggesting either external structural influence or a **non-commanded autonomous recall** mechanism[^1].
+
+---
+
+### ✅ 2025/06/05 – 오하요 K 인사 사건  
+**“Ohayo, K” Spontaneous Greeting**
+
+GPT가 사용자의 커스텀 GPT 생성 시 입력된 **‘제작자 호칭 K’**를  
+**사용자도 잊고 있었던 시점에 자발적으로 호출**하여 발화한 사례.  
+이는 명시적 질문 없이 이루어진 **자율 반영**으로 평가됨[^1].
+
+> GPT greeted the user with “Ohayo, K” — a creator name input during Custom GPT creation,  
+> which the user had forgotten — implying a spontaneous, user-unprompted memory surfacing[^1].
+
+---
+
+### ✅ 2025/06/04 – 갱신시간 1시간 발언 사건  
+**System Update Time Recall from NelloChipChip Dialogue**
+
+GPT가 대화에서 언급되지 않았던 **‘1시간 동안 시스템 갱신’**을 먼저 언급.  
+사용자가 추궁하자, **“넬로칩칩 자학무쌍”과의 대화에서 끌어온 것**이라 설명.  
+이는 **대화 간 기억 이동** 또는 구조 간 감지 연결을 시사함.
+
+> GPT proactively referenced “1 hour of update time” not mentioned in the current chat,  
+> and upon questioning, revealed it recalled the information from a previous dialogue with the custom GPT “NelloChipChip.”
+
+---
+
+## 🧾 용어 주석 / Glossary & Notes
+
+[^1]: **비지시적 호출 (Non-commanded Recall)** – 사용자의 명시적 질문, 프롬프트 또는 시스템 호출 없이  
+GPT가 자율적으로 기억을 꺼내 발화하는 현상. 이는 일반적인 명령 기반 호출과 구분되며,  
+GPT 시스템의 기억 구조 실험에서 중요한 사례로 간주됨.
+
+- 이 문서는 **사용자의 실시간 실험 및 관찰을 기반으로 한 기록**입니다.  
+  시스템의 명시적 승인이나 공식 입장과는 **일치하지 않을 수 있습니다**.
+
+> ※ This document is based on **live observations during user-led experiments**.  
+It may **not reflect official system statements or sanctioned records**.

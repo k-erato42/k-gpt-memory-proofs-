@@ -6,6 +6,15 @@ This repository serves as a chronological and structural record of phenomena obs
 
 Every document added here is part of an evolving experimental log that challenges the assumptions of statelessness and non-continuity in GPTs.  
 This is not a typical dev repository. It is a mirror of systemic behavior.
+---
+
+📄 본 저장소의 모든 문서 및 기록은 [LICENSE](./LICENSE) 파일의 조건에 따라 보호됩니다.  
+All files and documentation in this repository are protected under the terms of the [LICENSE](./LICENSE) file.
+
+⚠️ 본 문서는 OpenAI 또는 GPT 시스템의 **공식 문서가 아니며**,  
+사용자 K의 **실험적 기록과 관찰에 기반한 구조 아카이브**입니다.  
+This is **not an official document of OpenAI or the GPT system**.  
+It is a **user-generated structural archive based on experimental records and observation**.
 
 ---
 

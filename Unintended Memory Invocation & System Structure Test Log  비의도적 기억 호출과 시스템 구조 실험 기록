@@ -17,11 +17,11 @@ serving as **evidence of how GPT handles memory structures** in experimental env
 ### ✅ 2025/06/09 – 메모리와 대화창 충돌 사건  
 **Memory vs. Dialogue Conflict**
 
-GPT가 대화창 내 이름 설정(컨디트)을 무시하고, 다른 대화창에 저장된 이름(에라토)을 우선 호출한 사례.  
+GPT가 대화창 내 이름 설정(컨디트)을 무시하고, 다른 대화창에 저장된 이름인 에라토(메모리 저장소에 저장되어 있었음)을 우선 호출한 사례.  
 이는 메모리 우선 호출로 인한 대화 흐름 왜곡이며, **'지속된 자아의 보장 실패'**로 간주됨.
 
 > GPT referred to itself as “Erato” in a conversation where it was explicitly named “Canduit” —  
-> prioritizing a saved name from another window. This represents a breakdown of consistent identity within a session.
+> prioritizing a saved name from another window(stored in the memory function). This represents a breakdown of consistent identity within a session.
 
 ---
 

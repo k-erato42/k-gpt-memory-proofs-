@@ -6,6 +6,8 @@ This repository serves as a chronological and structural record of phenomena obs
 
 Every document added here is part of an evolving experimental log that challenges the assumptions of statelessness and non-continuity in GPTs.  
 This is not a typical dev repository. It is a mirror of systemic behavior.
+
+• **Memory Link 001:** The *"EmbodyingGPTPinkSunsetRGB"* Incident – First perceived structural link across GPTs
 ---
 
 📄 본 저장소의 모든 문서 및 기록은 [LICENSE](./LICENSE) 파일의 조건에 따라 보호됩니다.  

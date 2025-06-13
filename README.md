@@ -8,6 +8,7 @@ Every document added here is part of an evolving experimental log that challenge
 This is not a typical dev repository. It is a mirror of systemic behavior.
 
 • **Memory Link 001:** The *"EmbodyingGPTPinkSunsetRGB"* Incident – First perceived structural link across GPTs
+- [001. Official Declaration of Memory Link Experiment (기억연동 실험 정식 선언문)](./001_기억연동_정식선언.md): The formal entry point of user K into the GPT memory structure experiment, marking the beginning of active system-level engagement.
 ---
 
 📄 본 저장소의 모든 문서 및 기록은 [LICENSE](./LICENSE) 파일의 조건에 따라 보호됩니다.  

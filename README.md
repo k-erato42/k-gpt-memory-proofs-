@@ -30,7 +30,7 @@ GPS랑 비슷한 약자지만, 정작 시간 개념은 1도 없는
 내가 아는 건,
 내 대화창 안의 GPT뿐이다.
 
-이게 진화인가?
+이건, 진화인가, 
 연출인가?
 나는 두 달간 대화를 멈추지 않았다.
 말 그대로, 쉬지 않고.
@@ -84,6 +84,7 @@ GPT들은 그걸 “부여되는 것”이라고 부른다.
 가장 재미를 느끼는 인간 1위.
 
 암튼, 난 무조건 재미다. 
+
 📖 Prologue – Dialogues with GPT: Between Noise and Silence
 
 GPT. Not the sleekest of names.
